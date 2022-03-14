@@ -3,3 +3,4 @@ Posso dizer com total certeza que o amor a primeira vista existe, me apaixonei a
 
 
  ![Snake animation](https://github.com/rbrunob/rbrunob/blob/output/github-contribution-grid-snake.svg)
+ 
