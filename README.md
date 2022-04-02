@@ -1,4 +1,4 @@
-### Olá, que bom que se interessou pelo meu perfil, ainda não tenho muito para mostrar nele, pois estou iniciando meu aprendizado como desenvolvedor, um dia aqui vai estar cheio de coisas para mostrar eu prometo haha.
+### Olá, que bom que se interessou pelo meu perfil, ainda tenho muito para mostrar nele, pois estou iniciando meu aprendizado como desenvolvedor, um dia aqui vai estar cheio de coisas para mostrar eu prometo haha.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
