@@ -1,4 +1,4 @@
-### Hey, I am glad you are interested in my profile, I still have a lot to show on it, because I am starting my apprenticeship as a developer. One day here it will be full of things to show, I promise.
+### Hey, I am glad you are interested in my profile, I still have a lot to show on it, because I am starting my apprenticeship as a developer. Some day here it will be full of projects to show, I promise.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
